@@ -88,18 +88,18 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.title}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokeppamer.pages.dev/v/${file.filecode}#${file.title}`,
+        url: `https://bokepmurid.pages.dev/v/${file.filecode}#${file.title}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://bokeppamer.pages.dev/favicon.ico'},
+            logo: 'https://bokepmurid.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://bokeppamer.pages.dev'
+                url: 'https://bokepmurid.pages.dev'
               }
         }
         const jsonLd2 = {
@@ -108,24 +108,24 @@ export default async function Video({ params }: PageProps) {
         headline: `${file.title}`,
         image: file.splash_img,
         description: `${file.title} di ${SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma`,
-        url: `https://bokeppamer.pages.dev/v/${file.filecode}#${file.title}`,
+        url: `https://bokepmurid.pages.dev/v/${file.filecode}#${file.title}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://bokeppamer.pages.dev/favicon.ico'},
+            logo: 'https://bokepmurid.pages.dev/favicon.ico'},
         author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://bokeppamer.pages.dev'},
+                url: 'https://bokepmurid.pages.dev'},
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://bokeppamer.pages.dev/v/${file.filecode}#${file.title}`
+                target: `https://bokepmurid.pages.dev/v/${file.filecode}#${file.title}`
             }  
         }
         }
@@ -171,7 +171,7 @@ export default async function Video({ params }: PageProps) {
          __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1052552})`,
       }}
    /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="1052552" data-width="300" data-height="112"></ins></center>
-            <p>{file.title} di {SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma Jepang Jav Barat Simontok hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokeppamera simontok {file.title} playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor {SITENAME} remaja yandex update perselingkuhan wiki raja full com porno indoh Hotbabes Big Tits Family Freeporn Ass Naked Celebs Nude Cam Hot Videos Fucking Free Porno Adult Movies Mom Freesex Nudelive Cams Women Stepmom Hotwife Bigtits Melons Tube Huge Tits Pornos Film x Titshits Pornofilme Nice Natural Fuq Girls Teen Sex Pornstars Tube Dick Jihad</p>
+            <p>{file.title} di {SITENAME} Video Bokep Indo Viral Terbaru Xpanas Bocil Ngentot Jilbab Smp Mama Sma Jepang Jav Barat Simontok hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokepmurida simontok {file.title} playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor {SITENAME} remaja yandex update perselingkuhan wiki raja full com porno indoh Hotbabes Big Tits Family Freeporn Ass Naked Celebs Nude Cam Hot Videos Fucking Free Porno Adult Movies Mom Freesex Nudelive Cams Women Stepmom Hotwife Bigtits Melons Tube Huge Tits Pornos Film x Titshits Pornofilme Nice Natural Fuq Girls Teen Sex Pornstars Tube Dick Jihad</p>
             </Card>
             <h2 className="text-2xl font-bold text-center my-4">Related Video {file.title}
             </h2>
